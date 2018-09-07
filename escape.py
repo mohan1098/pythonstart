@@ -7,3 +7,4 @@ print("Using\tfor tab it will give the space between using and for") #Using \t f
 print("Using\bfor tab it will give the backspace between using and for") #Using \b for tab
 print("Using for tab\\") #in case we need backslash in last
 print("Hello \\n madan")  #If we need \ as normal text then we need to add two \\
+print(r"Hello \\n madan") #putting r in starting indicate that every thing in "" will treat as normal text
